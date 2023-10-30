@@ -22,6 +22,7 @@ h2 {
 
 h3 {
     text-align: center;
+
 }
 
 
@@ -48,6 +49,20 @@ nav ul li {
     margin-right: 10px;
     border: 1px solid black;
 
+}
+
+.firstheader {
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.firstheader article {
+    margin: 20px;
+}
+
+.firstheader img {
+    width: 1000px;
 }
 
 .portfolio-items {
